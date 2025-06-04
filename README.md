@@ -64,7 +64,7 @@ To develop a foundational understanding of how raw, unstructured data can be cle
 
 **Your Name**  
 Aspiring Data Scientist | BTech CSE Student | Python Enthusiast  
-[GitHub](https://github.com/debashish-5) • [LinkedIn](https://linkedin.com/in/Debashish-parida)
+[GitHub](https://github.com/debashish-5) • [LinkedIn](https://www.linkedin.com/in/debashish-parida-a260b1355)
 
 ---
 
