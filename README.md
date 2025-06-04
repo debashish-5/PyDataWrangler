@@ -52,12 +52,6 @@ To develop a foundational understanding of how raw, unstructured data can be cle
 
 ---
 
-## 📸 Sample Outputs
-
-Add screenshots of cleaned data preview, recommendations, or notebooks here. (Optional)
-
----
-
 ## 📌 Status
 
 🟢 Project Complete  
@@ -70,7 +64,7 @@ Add screenshots of cleaned data preview, recommendations, or notebooks here. (Op
 
 **Your Name**  
 Aspiring Data Scientist | BTech CSE Student | Python Enthusiast  
-[GitHub](https://github.com/debashish-5) • [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/debashish-5) • [LinkedIn](https://linkedin.com/in/Debashish-parida)
 
 ---
 
